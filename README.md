@@ -1,7 +1,7 @@
 # robot-arm
-This is the software for my arduino controlled robotic arm. It uses a pygame controller.
+This is the software for my arduino controlled robotic arm. It uses a pygame controller. This code is useless without the hardware.
 
-# modules
+# modules python
 serial
 
 time
@@ -9,3 +9,6 @@ time
 pygame
 
 numpy
+
+# modules arduino
+Servo.h
