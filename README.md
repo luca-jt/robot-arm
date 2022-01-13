@@ -3,6 +3,9 @@ This is the software for my arduino controlled robotic arm. It uses a pygame con
 
 # modules
 serial
+
 time
+
 pygame
+
 numpy
