@@ -6,6 +6,6 @@ This is the software for my arduino controlled robotic arm. It uses a pygame con
 - time
 - pygame
 - numpy
-- 
+
 # modules arduino
 - Servo.h
